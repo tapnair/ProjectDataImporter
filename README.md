@@ -14,7 +14,7 @@ Also has option to export a project to be used for the import script.
 Could update this based on the permanent download location.
 
 1. **Insert link to Download Zip**
-2. For now download the repo from here.
+2. For now [download the repo from here.](https://github.com/tapnair/ProjectDataImporter/archive/refs/heads/master.zip)
 3. Rename zip file to be: `ProjectDataImporter`
 4. Un-Zip to any convenient location.
 
