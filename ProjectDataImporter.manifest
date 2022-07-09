@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Patrick Rainsberry",
+	"description":	{
+		"":	"Data importer for Fusion 360 class material"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
