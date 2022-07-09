@@ -45,7 +45,10 @@ _The script will now import all Fusion 360 files in the local directory._
 1. Open the config.py file
 2. Change the value of `DO_EXPORT` to: `True`
 3. In the data panel navigate to the project you want to export.
-4. Follow steps above to run the script 
+4. Follow steps above to run the script
+5. Select OK to confirm running the export.  This may take some time...
+
+   ![](resources/export_confirmation.png)
 
 The add-in will export all Fusion 360 files in the active project.
 
