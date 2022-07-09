@@ -9,9 +9,16 @@ Also has option to export a project to be used for the import script.
 
 ----
 
-## How to install<a name="How-to-install"></a> 
+## How to install<a name="How-to-install"></a>
+
+Could update this based on the permanent download location.
+
 1. **Insert link to Download Zip**
-2. Un-Zip to any convenient location.
+2. For now download the repo from here.
+3. Rename zip file to be: `ProjectDataImporter`
+4. Un-Zip to any convenient location.
+
+__Important! Directory must have the same name as the python script__
 
 ## How to use import<a name="How-to-use-import"></a>
 
