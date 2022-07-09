@@ -7,7 +7,7 @@ LOCAL_FUSION_FOLDER = 'FusionFiles'
 
 # When set to True, it will export the active Fusion 360 project
 # This will also disable the import function
-DO_EXPORT = True
+DO_EXPORT = False
 
 # When set True, it will skip import when file already exists in project
 SKIP_IMPORT_ON_DUPLICATES = True
