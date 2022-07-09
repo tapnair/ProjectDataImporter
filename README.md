@@ -6,6 +6,7 @@ Also has option to export a project to be used for the import script.
  * [How to install](#How-to-install)
  * [How to use import](#How-to-use-import)
  * [How to use export](#How-to-use-export)
+ * [Configuration Options](#Configuration-Options)
 
 ----
 
